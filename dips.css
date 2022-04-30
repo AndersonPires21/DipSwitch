@@ -122,14 +122,15 @@ body {
 }
 
 [pontuacao] :nth-child(2) {
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     width: 100%;
     height: 50px;
     background-color: #48707A;
     font-size: 26px;    
     color: white;
+    text-align: center;
     
 }
 
